@@ -17,6 +17,7 @@
             <org.apache.tiles-version>2.2.2</org.apache.tiles-version>
             <org.slf4j-version>1.7.21</org.slf4j-version>
             <org.log4j-version>2.7</org.log4j-version>
+            <maven-dependency-plugin.version>2.6</maven-dependency-plugin.version>
     </properties>
 
 <!--     <modules> -->
