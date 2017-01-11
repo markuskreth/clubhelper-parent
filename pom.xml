@@ -22,11 +22,11 @@
 		<maven-dependency-plugin.version>2.10</maven-dependency-plugin.version>
 	</properties>
 
-	<!-- <modules> -->
-	<!-- <module>../ClubHelperBackend</module> -->
-	<!-- <module>../../workspace_java_swing/ClubhelperClient</module> -->
-	<!-- <module>../ClubhelperWebStart</module> -->
-	<!-- </modules> -->
+	<modules>
+	<module>../clubhelperdata</module>
+	<module>../ClubhelperJavaFxClient</module>
+	<module>../ClubhelperRestServer</module>
+	</modules>
 
 	<build>
 		<plugins>
