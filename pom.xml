@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.kreth</groupId>
 	<artifactId>clubhelper-parent</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>clubhelper Parent</name>
 
@@ -22,12 +22,13 @@
 		<maven-dependency-plugin.version>2.10</maven-dependency-plugin.version>
 	</properties>
 
-	<modules>
-	<module>../clubhelperdata</module>
-	<module>../ClubhelperJavaFxClient</module>
-	<module>../ClubhelperRestServer</module>
+	<!--		<modules>
+		<module>../clubhelperdata</module>
+		<module>../ClubhelperJavaFxClient</module>
+		<module>../databasedefinition</module>
+		<module>../ClubhelperRestServer</module>
 	</modules>
-
+-->
 	<build>
 		<plugins>
 			<plugin>
