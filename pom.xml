@@ -61,4 +61,9 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<scm>
+		<url>https://github.com/markuskreth/clubhelper-parent</url>
+		<connection>scm:git:git@github.com:markuskreth/clubhelper-parent.git</connection>
+		<developerConnection>scm:git:git@github.com:markuskreth/clubhelper-parent.git</developerConnection>
+	</scm>
 </project>
