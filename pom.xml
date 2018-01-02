@@ -63,13 +63,6 @@
 			<url>http://spallek.com:8081/artifactory/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
-	<dependencies>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
 	<scm>
 		<url>https://github.com/markuskreth/clubhelper-parent</url>
 		<connection>scm:git:git@github.com:markuskreth/clubhelper-parent.git</connection>
