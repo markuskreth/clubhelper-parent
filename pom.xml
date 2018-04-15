@@ -54,13 +54,13 @@
 	<distributionManagement>
 		<repository>
 			<id>kreth-repo</id>
-			<name>munich.spallek.com-releases</name>
-			<url>http://spallek.com:8081/artifactory/releases</url>
+			<name>kreth-development.de-releases</name>
+			<url>http://kreth-development.de:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>kreth-snapshots</id>
-			<name>munich.spallek.com-snapshots</name>
-			<url>http://spallek.com:8081/artifactory/snapshots</url>
+			<name>kreth-development.de-snapshots</name>
+			<url>http://kreth-development.de:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<scm>
