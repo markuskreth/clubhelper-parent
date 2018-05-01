@@ -69,7 +69,6 @@
 		<url>https://github.com/markuskreth/clubhelper-parent</url>
 		<connection>scm:git:git@github.com:markuskreth/clubhelper-parent.git</connection>
 		<developerConnection>scm:git:git@github.com:markuskreth/clubhelper-parent.git</developerConnection>
-		<tag>clubhelper-parent-1.0.5</tag>
 	</scm>
 	<dependencyManagement>
 		<dependencies>
