@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
@@ -22,13 +23,9 @@
 		<org.log4j-version>2.9.1</org.log4j-version>
 	</properties>
 
-	<!--		<modules>
-		<module>../clubhelperdata</module>
-		<module>../ClubhelperJavaFxClient</module>
-		<module>../databasedefinition</module>
-		<module>../ClubhelperRestServer</module>
-	</modules>
--->
+	<!-- <modules> <module>../clubhelperdata</module> <module>../ClubhelperJavaFxClient</module> 
+		<module>../databasedefinition</module> <module>../ClubhelperRestServer</module> 
+		</modules> -->
 	<build>
 		<plugins>
 			<plugin>
@@ -219,10 +216,11 @@
 			</dependency>
 			<dependency>
 				<groupId>org.mockito</groupId>
-				<artifactId>mockito-all</artifactId>
-				<version>1.10.19</version>
+				<artifactId>mockito-core</artifactId>
+				<version>2.22.0</version>
 				<scope>test</scope>
 			</dependency>
+
 		</dependencies>
 	</dependencyManagement>
 </project>
