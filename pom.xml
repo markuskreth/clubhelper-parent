@@ -18,7 +18,7 @@
 		<java.version>11</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<spring.security.version>4.2.3.RELEASE</spring.security.version>
+		<spring.security.version>5.2.10.RELEASE</spring.security.version>
 		<com.fasterxml.jackson-version>2.11.1</com.fasterxml.jackson-version>
 		<org.aspectj-version>1.8.13</org.aspectj-version>
 		<org.apache.tiles-version>2.2.2</org.apache.tiles-version>
